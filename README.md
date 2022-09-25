@@ -7,7 +7,7 @@ https://francoiskroll.shinyapps.io/frameshiftmodel/
 
 ___
 
-Get in touch for questions
+Get in touch
 
   * [![alt text][1.2]][1] [@francois_kroll](https://twitter.com/francois_kroll)
 
