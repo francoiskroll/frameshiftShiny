@@ -1,5 +1,5 @@
 # frameshiftShiny
-Shiny app demonstrating the knockout by frameshift model
+Shiny app demonstrating the knockout by frameshift model.
 
 Available at:
 
